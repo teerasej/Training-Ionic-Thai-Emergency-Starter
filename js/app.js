@@ -18,7 +18,7 @@ angular.module('starter', ['ionic'])
     });
 })
 
-.controller('ProfileController', ['$scope', function($scope) {
+.controller('PhoneController', ['$scope', function($scope) {
 
     $scope.profiles = [
       {name:'Police', tel: '191'},
